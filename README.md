@@ -1,2 +1,2 @@
 # JAGUAR-VR
-An vr system powered By Java and Catrobat,www.jaguarvr.simdif.com is a example
+An vr system. jaguarvr.my.canva.site
